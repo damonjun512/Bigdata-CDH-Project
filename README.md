@@ -1,5 +1,4 @@
 # Bigdata-CDH-Project
-一、项目组件
 这个项目使用CDH5.12管理大数据平台，其中使用spark2.2版本，kafka0.10版本，其他组件版本，使用CDH自带版本
 存储日常项目使用的utils代码
 ## 项目说明
