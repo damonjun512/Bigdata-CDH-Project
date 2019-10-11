@@ -1,3 +1,2 @@
-# Hello-World
-first code at GitHub
-hello github ,hello java hello big data
+# Bigdata-CDH-Project
+一、项目组件
